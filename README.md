@@ -16,6 +16,12 @@ Light follows this curvature, which leads to:
 * Einstein rings
 * Black hole shadow formation
 
+The bending of light near a massive object can be approximated by:
+
+$$
+\alpha = \frac{4GM}{c^2 r}
+$$
+
 ## Features
 
 * Interactive lensing simulation
