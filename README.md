@@ -39,7 +39,7 @@ Light follows this curvature, which leads to:
 
 ## How to Run
 
-1. Open `Black_hole.ipynb`
+1. Open `Black_hole_simulation.ipynb`
 2. Run all cells
 
 ## Technologies Used
